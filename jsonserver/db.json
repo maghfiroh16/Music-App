@@ -1,0 +1,31 @@
+{
+    "users": [
+      {
+        "id": "d016",
+        "email": "firoh@gmail.com",
+        "password": "firoh123"
+      },
+      {
+        "id": "bcad",
+        "email": "1",
+        "password": "1"
+      },
+      {
+        "id": "6571",
+        "email": "",
+        "password": ""
+      }
+    ],
+    "favorites": [
+      {
+        "trackId": "1",
+        "name": "Apt",
+        "artist": "Rose",
+        "album": "",
+        "image": "https://upload.wikimedia.org/wikipedia/id/8/8e/Ros%C3%A9_dan_Bruno_Mars_-_Apt..png",
+        "preview_url": "https://example.com/track1.mp3"
+      }
+
+    ]
+  }
+  
